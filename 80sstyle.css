@@ -1,0 +1,479 @@
+
+
+body {
+    background-image: url(images/starscape.jfif);
+    color: rgb(204, 0, 0);
+}
+
+h1 {
+  font-size:5vw;
+}
+
+.opener {
+  text-align: center;
+  font-size: 1.5vw;
+}
+
+.intro {
+text-align:center;
+font-size: 1.5vw;
+margin-top: 10vw;
+}
+
+.pad {
+    margin-bottom: 7vw;
+
+}
+
+.transformers {
+  text-align:center;
+  font-size: 1.5vw;
+  margin-top: 10vw;
+}
+
+.ts1 {
+  margin-top: 5vw;
+}
+
+.info {
+  font-size: 1vw;
+  margin-top: 2.5vw;
+  margin-bottom: 2.5vw;
+}
+
+#optimus {
+  height: 30vw;
+  margin-top: 5vw;
+
+}
+
+#megatron {
+  height: 30vw;
+
+}
+
+figure {
+  display:inline-block;
+}
+
+.joe {
+  text-align: center;
+  margin-top: 8vw;
+  font-size: 1.5vw;
+}
+
+.joeintro {
+  margin-top: 5vw;
+}
+
+#duke {
+  height: 20vw;
+}
+
+#snakeeyes {
+  height: 25vw;
+}
+
+#commander {
+    height: 20vw
+}
+
+#silver {
+  text-align:center;
+  font-size: 1.5vw;
+  margin-top: 10vw;
+}
+
+#hawks {
+  height: 15vw;
+}
+
+#monstar {
+  height: 20vw;
+  width: 20vw;
+}
+
+#squid {
+
+}
+
+#liono {
+  height: 30vw;
+}
+
+#mummra {
+  height: 30vw;
+}
+
+#jaga {
+
+}
+
+#tank {
+  height: 20vw;
+}
+
+#heman {
+
+}
+
+#battlecat {
+
+}
+
+#orko {
+  height: 15vw;
+}
+
+#castle {
+  height: 20vw;
+}
+
+#skeletor {
+  height: 20vw;
+}
+
+#guardians {
+  height: 20vw;
+}
+
+#renegades {
+  height: 20vw;
+}
+
+#courageous {
+  height: 30vw;
+}
+
+#zod {
+  height: 30vw;
+}
+
+#trakker {
+  height: 20vw;
+}
+
+#mayhem {
+  height: 20vw;
+}
+
+#raven {
+
+}
+
+#tbob {
+
+}
+
+#jerrica {
+  height: 20vw;
+}
+
+#jem {
+  height: 20vw;
+}
+
+#rio {
+  height: 20vw;
+}
+
+#misfits {
+  height: 20vw;
+}
+
+#voltron {
+  height: 30vw;
+}
+
+#voltron2 {
+  height: 30vw;
+
+}
+
+#pony {
+  height: 20vw;
+}
+
+#troll {
+  height: 20vw;
+}
+
+.honor {
+  text-align: center;
+  font-size: 2.5vw;
+  margin-top: 7vw;
+}
+.honorp {
+  font-size:1.5vw;
+  text-align:center;
+  margin-top:3vw;
+}
+
+#jayce {
+  height: 20vw;
+}
+
+#monster {
+  height: 20vw;
+}
+
+#car {
+
+}
+
+#oon {
+  height: 20vw;
+}
+
+#centurions {
+  height: 20vw;
+}
+
+#terror {
+  height: 20vw;
+}
+
+#gummi {
+
+}
+
+#rainbow {
+  height: 20vw;
+}
+
+#murk {
+  height: 20vw;
+}
+
+#turtles {
+  height: 20vw;
+}
+
+#shredder {
+
+}
+
+#rat {
+  height: 20vw;
+}
+
+
+
+@media screen and (max-width: 780px){
+body {
+  font-size: 1em;
+  display: block;
+}
+
+.opener {
+  font-size: 1em;
+}
+.pad {
+  font-size: 1.5em;
+}
+.intro {
+  font-size: 1em;
+}
+
+.info {
+  font-size: 1em;
+}
+.honor {
+  font-size: 1.5em;
+}
+.honorp {
+  font-size: 1em;
+}
+
+.frame {
+  height: auto;
+  width: auto;
+}
+#optimus {
+  height: 100%;
+  width: 60%;
+  display: center
+}
+#megatron {
+  height: 200%;
+  width: 150%;
+  display: center;
+}
+#starscream {
+  height: 100%;
+  width: 75%;
+}
+#duke {
+  height: 100%;
+  width: 100%;
+}
+#snakeeyes {
+  height: 100%;
+  width: 50%;
+}
+#commander {
+  height: 100%;
+  width: 100%;
+}
+#hawks {
+  height: 100%;
+  width: 100%;
+}
+#monstar {
+  height: 100%;
+  width: 100%;
+}
+#squid {
+  height: 100%;
+  width: 100%;
+}
+#liono {
+  height: 100%;
+  width:100%;
+}
+#mummra {
+  height: 100%;
+  width: 100%;
+}
+#jaga {
+  height: 100%;
+  width: 100%;
+}
+#tank {
+  height: 100%;
+  width: 100%;
+}
+#heman {
+  height: 100%;
+  width: 100%;
+}
+#battlecat {
+  height: 100%;
+  width: 100%;
+}
+#orko {
+  height: 100%;
+  width: 100%;
+}
+#castle {
+  height: 100%;
+  width: 100%;
+}
+#skeletor {
+  height: 100%;
+  width: 100%;
+}
+#guardians {
+  height: 100%;
+  width: 100%;
+}
+#renegades {
+  height: 100%;
+  width: 100%;
+}
+#courageous {
+  height: 100%;
+  width: 100%;
+}
+#zod {
+  height: 100%;
+  width: 100%;
+}
+#trakker {
+  height: 100%;
+  width: 100%;
+}
+#mayhem {
+  height: 100%;
+  width: 100%;
+}
+#raven {
+  height: 100%;
+  width: 100%;
+}
+#tbob {
+  height: 100%;
+  width: 100%;
+}
+#jerrica {
+  height: 100%;
+  width: 100%;
+}
+#jem {
+  height: 100%;
+  width: 100%;
+}
+#rio {
+  height: 100%;
+  width: 100%;
+}
+#misfits {
+  height: 100%;
+  width: 100%;
+}
+#voltron {
+  height: 100%;
+  width: 100%;
+}
+#voltron2 {
+  height: 100%;
+  width: 100%;
+}
+#pony {
+  height: 100%;
+  width: 100%;
+}
+#troll {
+  height: 100%;
+  width: 100%;
+}
+#jayce {
+  height: 100%;
+  width: 100%;
+}
+#monster {
+  height: 100%;
+  width: 100%;
+}
+#car {
+  height: 100%;
+  width: 100%;
+}
+#oon {
+  height: 100%;
+  width: 100%;
+}
+#centurions {
+  height: 100%;
+  width: 100%;
+}
+#terror {
+  height: 100%;
+  width: 100%;
+}
+#gummi {
+  height: 100%;
+  width: 100%;
+}
+#rainbow {
+  height: 100%;
+  width: 100%;
+}
+#murk {
+  height: 100%;
+  width: 100%;
+}
+#turtles {
+  height: 100%;
+  width: 100%;
+}
+#Shredder {
+  height: 100%;
+  width: 100%;
+}
+#rat {
+  height: 100%;
+  width: 100%;
+}
+
+}
